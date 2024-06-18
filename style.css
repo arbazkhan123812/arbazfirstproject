@@ -1,0 +1,448 @@
+header
+{
+    background-color: #000000;
+    color: white;
+    padding: 5px;
+    
+}
+
+body
+{
+    background-color: whitesmoke;
+}
+
+.btn-1
+{
+    padding: 10px;
+    margin-right: 20px;
+    
+}
+
+
+.btn-1
+{
+    transition: .4s all;
+}
+.btn-1:hover
+{
+    transform: perspective(1.1);
+    background-color: #000000;
+}
+
+
+.btn-2
+{
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.btn-2
+{
+    transition: .4s all;
+}
+.btn-2:hover
+{
+    transform: perspective(1.1);
+    background-color: #000000;
+}
+
+.btn-3
+{
+    padding: 10px;
+    margin-right: 20px;
+}
+
+
+.btn-3
+{
+    transition: .4s all;
+}
+.btn-3:hover
+{
+    transform: perspective(1.1);
+    background-color: #000000;
+    }
+
+
+.btn-111
+{
+    padding: 10px;
+    margin-right: 20px;
+}
+
+
+.btn-111
+{
+    transition: .4s all;
+}
+.btn-111:hover
+{
+    transform: perspective(1.1);
+    background-color: #000000;
+
+}
+
+.carousel-inner
+{
+    margin-top: 20px;
+    height: 400px;
+}
+
+.cards
+{
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 30px ;
+    box-shadow: 0 4px 8px 0 rgb(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.cards:hover 
+{
+    transform: scale(0.9);
+}
+
+.container
+{
+    padding: 2px 16px;
+}
+
+
+.btn-6
+{
+    transition: .4s all;
+}
+.btn-6:hover
+{
+    transform: perspective(1.1);
+    background-color: #000000;
+}
+
+
+.biljani
+{
+  margin-top: 50px;
+}
+
+.btn-9  
+{
+    float: right;
+}
+
+.btn-9:hover
+{
+    transform: perspective(1.1);
+    background-color: #000000;
+}
+
+.subtitle
+{
+    margin-top: 5px;
+    margin-left: 800px;
+}
+
+.card1
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+.card1:hover
+{
+    transform: scale(0.9);
+}
+
+
+.card2
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+
+.card-img1-top
+{
+    height: 202px;
+    width: 255px;
+}
+
+.card2:hover
+{
+    transform: scale(0.9);
+}
+
+.card3
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+.card-img4-top
+{
+    height: 201px;
+    width: 255px;
+}
+.card3:hover
+{
+    transform: scale(0.9);
+}
+
+
+.card4
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+.card4:hover
+{
+    transform: scale(0.9);
+}
+
+.card-img6-top
+{
+    height: 200px;
+    width: 255px;
+}
+
+
+.hd
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    padding-left: 50px;
+    margin-top: 30px;
+}
+
+
+.card7
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+.card7:hover
+{
+    border: none;
+    transform: scale(0.9);
+}
+
+
+
+.card8
+{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+.card8:hover
+{
+    border: none;
+    transform: scale(0.9);
+}
+
+.card9
+{   
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+.card9:hover
+{
+    border: none;
+    transform: scale(0.9);
+}
+
+
+.card10
+{   
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0,0,0.2);
+    transition: 0.3s;
+}
+
+.card10:hover
+{
+    border: none;
+    transform: scale(0.9);
+}
+
+.ig
+{
+    margin-left: 20px;
+    display: flex;
+}
+
+.tt
+{
+    margin-left: 50px;
+}
+
+.cc{
+    margin-left: 750px;
+}
+
+.jj
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    padding-left: 50px;
+    margin-bottom: 5px;
+}
+
+.card-text1
+{
+    font-size: small;
+}
+
+.card911
+{
+    display: flex;
+    width: 100%;
+}
+
+.new
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-left: 50px;
+    margin-bottom: 5px;
+}
+
+/* footer */
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+footer
+{
+    background-color: #000000;
+}
+.footerContainer
+{
+    width: 100%;
+    padding: 70px 30px 20px;
+}
+.socialIcons
+{
+    display: flex;
+    justify-content: center;
+}
+
+.socialIcons a
+{
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.socialIcons a i
+{
+    font-size: 2em;
+    color: black;
+    opacity: 0,9;
+}
+
+/* hover effect on social media icons */
+
+.socialIcons a:hover
+{
+    background-color: #111;
+    transition: 0.5s;
+}
+
+.socialIcons a:hover i
+{
+    color: white;
+    transition: 0.5s;
+}
+
+.footernav
+{
+    margin: 30px 0;
+}
+
+.footernav ul
+{
+    display: flex;
+    justify-content: center;
+}
+
+.footernav ul li a
+{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.3em;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+
+.footernav ul li a:hover
+{
+    opacity: 1;
+}
+
+.footerbutton
+{
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+}
+
+.footerbutton
+{
+    color: white;
+}
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  .about-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+  }
+  .about-section h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  .about-section p {
+    color: #666;
+  }
+
+
+  .container2
+  {
+  }
+
+
+
+  .cards
+  {
+    margin-bottom: 20px;
+    display: flex;
+    width: 400px;
+  }
+
